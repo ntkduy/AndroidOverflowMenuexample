@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Overflow Menu example</string>
+
+    //menu_main text
+    <string name="action_setting">Settings</string>
+    <string name="red_string">RED</string>
+    <string name="green_string">GREEN</string>
+    <string name="yellow_string">YELLOW</string>
+
+    //activity_main text
+    <string name="welcome_text">Android Overflow Menu example</string>
+</resources>
